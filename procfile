@@ -1,1 +1,1 @@
-web:node api/package.json
+web: node api/package.json
